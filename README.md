@@ -23,10 +23,6 @@
   <a href="https://www.linkedin.com/in/vitor-caitano-de-morais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/caitano_vitoor/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
- 
- 
-  ![Snake animation](https://github.com/CaitanoVitor/CaitanoVitor/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 <!--
 **CaitanoVitor/CaitanoVitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
