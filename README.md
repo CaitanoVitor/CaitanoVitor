@@ -1,8 +1,9 @@
 ### Olá! Eu Sou Vitor Caitano 👋
 
 <div align="center">
-<!-- <a href="https:/github.com/CaitanoVitor">
-<img width ="450em" height="250em" src="https://github-readme-stats.vercel.app/api?username=CaitanoVitor&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
+<a href="https:/github.com/CaitanoVitor">
+<!-- <img width ="450em" height="250em" src="https://github-readme-stats.vercel.app/api?username=CaitanoVitor&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
+<img width ="500em" height="300em" src="https://streak-stats.demolab.com?user=sarah1iz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="streak graph"  />
 <img width ="500em" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaitanoVitor&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
@@ -12,9 +13,10 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"  alt="Js"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo"  />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  alt="postgresql logo"  />
-  <img align="center" height="30" width="40" width="12" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github logo"  />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo"  />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
  
     
 </div>
